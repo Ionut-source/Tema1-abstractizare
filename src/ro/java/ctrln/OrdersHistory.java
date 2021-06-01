@@ -11,6 +11,5 @@ public class OrdersHistory extends UserAccount {
     OrdersHistory ordersHistory = new OrdersHistory(firstOrder, secondOrder, thierdOrder);
 
     public OrdersHistory(String firstOrder, String secondOrder, String thierdOrder) {
-
     }
 }
